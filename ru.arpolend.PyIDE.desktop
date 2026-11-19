@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PyIDE
+Comment=Run Python scripts
+Comment[ru]=Запуск скриптов Python
+Icon=ru.arpolend.PyIDE
+Exec=ru.arpolend.PyIDE %u
+MimeType=text/x-python;text/x-python3;
+X-Nemo-Application-Type=silica-qt5
+
+[X-Application]
+Permissions=UserDirs;Downloads;Internet
+OrganizationName=ru.arpolend
+ApplicationName=PyIDE
+Intents=OpenURI
+
+[X-Aurora-Application]
+Orientation=All
+IconMode=Crop
